@@ -28,7 +28,7 @@ Insert a comment.
 	git clone https://github.com/SpringSource/spring-petclinic.git
 	mvn tomcat7:run
 ```
-
+Change 
 You can then access petclinic here: http://localhost:9966/petclinic/
 
 ## In case you find a bug/suggested improvement for Spring Petclinic
